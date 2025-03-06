@@ -17,7 +17,7 @@
 2025-03-06 02:00:00 - INFO - Successfully merged parking and weather datasets.
 2025-03-06 02:30:00 - INFO - Started exploratory data analysis (EDA) on parking dataset.
 2025-03-06 03:00:00 - INFO - Generated visualizations: parking occupancy trends and time-series analysis.
-2025-03-06 03:15:00 - WARNING - Realized that all graphs were blank because I forgot to check data types. Nice one.
+2025-03-06 03:15:00 - WARNING - Realized that all graphs were blank because I forgot to check data types. Classic.
 2025-03-06 03:30:00 - INFO - Identified trends: peak parking hours, weekday vs. weekend analysis.
 2025-03-06 04:00:00 - INFO - Conducted weather impact analysis on parking trends.
 2025-03-06 04:10:00 - ERROR - Tried resampling categorical data. Pandas was not amused.
@@ -27,12 +27,9 @@
 2025-03-06 05:30:00 - INFO - Completed data processing and analysis tasks.
 2025-03-06 06:00:00 - INFO - Created GitHub repository and pushed initial project structure.
 2025-03-06 06:05:00 - ERROR - Git refused my push because the dataset was 174MB. Thought GitHub was nice, but turns out it has boundaries.
-2025-03-06 06:10:00 - WARNING - Spent 20 minutes trying to force push before realizing LFS is a thing.
+2025-03-06 06:10:00 - WARNING - Spent 20 minutes trying to force push before realizing GitHub LFS is a thing.
 2025-03-06 06:30:00 - INFO - Encountered Git LFS issue with large CSV files.
-2025-03-06 07:00:00 - INFO - Fixed large file issues, removed dataset from tracking, and restructured repo.
-2025-03-06 07:10:00 - WARNING - Accidentally removed the wrong files. Thankfully, Ctrl+Z exists.
-2025-03-06 07:30:00 - INFO - Successfully pushed project to GitHub.
-2025-03-06 08:00:00 - INFO - Finalized project documentation and requirements.txt file.
-2025-03-06 08:30:00 - WARNING - Spent 15 minutes debugging a missing file. Turns out, I forgot to save it.
-2025-03-06 09:00:00 - INFO - Completed project organization and final review.
-2025-03-06 09:30:00 - INFO - Took a well-deserved break. Brain cells have suffered enough.
+2025-03-06 06:40:00 - WARNING - Accidentally removed the wrong files. Thankfully, `Ctrl+Z` exists.
+2025-03-06 06:50:00 - INFO - Successfully pushed project to GitHub after resolving LFS issues.
+2025-03-06 06:55:00 - WARNING - Spent 15 minutes debugging a missing file. Turns out, I forgot to save it.
+2025-03-06 07:09:00 - INFO - Goin to sleep now to take a well-deserved break. Brain cells have suffered enough.
