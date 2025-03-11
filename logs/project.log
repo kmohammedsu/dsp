@@ -1,0 +1,90 @@
+2025-02-28 22:00:00 - INFO - Project initialized. Initial planning and dataset exploration started.
+2025-02-29 11:30:00 - INFO - Downloaded Seattle Parking Study dataset for analysis.
+2025-03-01 14:15:00 - INFO - Reviewed dataset structure, identified missing values and inconsistencies.
+2025-03-02 17:45:00 - INFO - Initial cleaning attempts made, removed unnecessary columns.
+2025-03-03 21:00:00 - INFO - Decided to integrate weather data for deeper analysis. Because parking data alone wasn't complicated enough.
+2025-03-04 09:00:00 - INFO - Researched and shortlisted APIs for real-time Seattle weather data.
+2025-03-04 22:30:00 - INFO - Created initial project folder structure and scripts setup.
+2025-03-05 18:00:00 - INFO - Implemented first version of parking data cleaning script.
+2025-03-05 19:30:00 - INFO - Identified missing timestamps and fixed formatting issues.
+2025-03-05 21:00:00 - INFO - Started major work session on parking and weather data integration.
+2025-03-05 22:30:00 - INFO - Successfully extracted Seattle parking data timestamps for weather API requests.
+2025-03-05 23:00:00 - INFO - Wrote script to fetch weather data based on parking timestamps.
+2025-03-06 00:00:00 - INFO - Retrieved and stored weather data in JSON format.
+2025-03-06 00:30:00 - INFO - Processed and structured weather data for merging with parking dataset.
+2025-03-06 01:00:00 - INFO - Cleaned and formatted missing values in parking dataset.
+2025-03-06 01:30:00 - INFO - Standardized datetime formats for both datasets. Because apparently "3/6/25" and "06-03-2025" aren't the same thing.
+2025-03-06 02:00:00 - INFO - Successfully merged parking and weather datasets.
+2025-03-06 02:30:00 - INFO - Started exploratory data analysis (EDA) on parking dataset.
+2025-03-06 03:00:00 - INFO - Generated visualizations: parking occupancy trends and time-series analysis.
+2025-03-06 03:15:00 - WARNING - Realized that all graphs were blank because I forgot to check data types. Classic.
+2025-03-06 03:30:00 - INFO - Identified trends: peak parking hours, weekday vs. weekend analysis.
+2025-03-06 04:00:00 - INFO - Conducted weather impact analysis on parking trends.
+2025-03-06 04:10:00 - ERROR - Tried resampling categorical data. Pandas was not amused.
+2025-03-06 04:30:00 - INFO - Created visualizations for temperature, wind speed, and precipitation impact.
+2025-03-06 05:00:00 - INFO - Cleaned and structured all scripts into separate modules.
+2025-03-06 05:15:00 - INFO - Moved all final visualizations into respective folders.
+2025-03-06 05:30:00 - INFO - Completed data processing and analysis tasks.
+2025-03-06 06:00:00 - INFO - Created GitHub repository and pushed initial project structure.
+2025-03-06 06:05:00 - ERROR - Git refused my push because the dataset was 174MB. Thought GitHub was nice, but turns out it has boundaries.
+2025-03-06 06:10:00 - WARNING - Spent 20 minutes trying to force push before realizing GitHub LFS is a thing.
+2025-03-06 06:30:00 - INFO - Encountered Git LFS issue with large CSV files.
+2025-03-06 06:40:00 - WARNING - Accidentally removed the wrong files. Thankfully, `Ctrl+Z` exists.
+2025-03-06 06:50:00 - INFO - Successfully pushed project to GitHub after resolving LFS issues.
+2025-03-06 06:55:00 - WARNING - Spent 15 minutes debugging a missing file. Turns out, I forgot to save it.
+2025-03-06 07:09:00 - INFO - Going to sleep now to take a well-deserved break. Brain cells have suffered enough.
+2025-03-07 10:30:00 - INFO - Started working on machine learning models for parking demand prediction.
+2025-03-07 12:45:00 - INFO - Implemented Random Forest, XGBoost, and Gradient Boosting models.
+2025-03-07 13:00:00 - INFO - Initiated model training on full dataset with cross-validation.
+2025-03-07 13:15:00 - INFO - Model training in progress. Estimated completion time: 12+ hours.
+2025-03-07 13:30:00 - INFO - Model still running after 30 minutes. CPU utilization at 98%.
+2025-03-07 14:00:00 - INFO - Model running for 60 minutes. Progress: 8% complete.
+2025-03-07 15:00:00 - INFO - Model running for 120 minutes. Progress: 16% complete.
+2025-03-07 16:00:00 - INFO - Model running for 180 minutes. Progress: 25% complete.
+2025-03-07 17:00:00 - INFO - Model running for 240 minutes. Progress: 33% complete.
+2025-03-07 18:00:00 - INFO - Model running for 300 minutes. Progress: 41% complete. Starting to question my life choices.
+2025-03-07 19:00:00 - INFO - Model running for 360 minutes. Progress: 49% complete.
+2025-03-07 20:00:00 - INFO - Model running for 420 minutes. Progress: 57% complete.
+2025-03-07 21:00:00 - INFO - Model running for 480 minutes. Progress: 65% complete.
+2025-03-07 22:00:00 - INFO - Model running for 540 minutes. Progress: 74% complete.
+2025-03-07 23:00:00 - INFO - Model running for 600 minutes. Progress: 82% complete.
+2025-03-08 00:00:00 - INFO - Model running for 660 minutes. Progress: 90% complete.
+2025-03-08 01:00:00 - INFO - Model running for 720 minutes. Progress: 98% complete. Please end. Please.
+2025-03-08 01:13:06 - INFO - Model training completed after 733 minutes and 6.5 seconds. Not that I was counting or anything.
+2025-03-08 01:15:00 - WARNING - Initial model performance was poor due to data leakage. Fixed feature engineering pipeline.
+2025-03-08 01:30:00 - INFO - Improved model performance with cross-validation and hyperparameter tuning.
+2025-03-08 02:45:00 - INFO - Generated model performance visualizations and feature importance plots.
+2025-03-08 03:15:00 - INFO - Random Forest model achieved best performance with R² = 0.83.
+2025-03-08 09:30:00 - INFO - Started drafting final report with key findings and insights.
+2025-03-08 13:45:00 - INFO - Completed methodology and results sections of the report.
+2025-03-08 16:20:00 - INFO - Added detailed analysis of weather impact on parking patterns.
+2025-03-08 19:00:00 - INFO - Finalized report with conclusions and recommendations.
+2025-03-08 20:15:00 - INFO - Git commit: Added final report draft. Commit took 45 seconds due to large file size.
+2025-03-08 20:30:00 - INFO - Git push: Pushed report to remote repository. Push operation took 2 minutes 15 seconds. Watched the progress bar like it was Netflix.
+2025-03-09 10:15:00 - INFO - Started planning for final presentation.
+2025-03-09 10:45:00 - INFO - Identified key project aspects to highlight: temporal patterns, weather impacts, and modeling results.
+2025-03-09 12:00:00 - INFO - Reviewed model training logs - noted impressive 733 minutes and 6.5 seconds training duration.
+2025-03-09 12:30:00 - INFO - Selected key visualizations for inclusion in the presentation.
+2025-03-09 15:45:00 - INFO - Drafted initial presentation outline with 11 slides.
+2025-03-09 16:30:00 - WARNING - Initial outline exceeded time constraints. Restructured to fit within 10 minutes. Apparently, people have limited attention spans.
+2025-03-09 18:20:00 - INFO - Finalized presentation structure with cohesive narrative flow.
+2025-03-09 19:00:00 - INFO - Created presentation assets directory for organizing visualizations.
+2025-03-09 20:30:00 - WARNING - Some visualization files had naming conflicts. Implemented consistent naming convention. Who knew "final_final_v2_FINAL.png" wasn't a good naming strategy?
+2025-03-09 21:00:00 - INFO - Completed organization of visualization assets for presentation.
+2025-03-09 21:15:00 - INFO - Git commit: Added organized visualization assets. Commit took 32 seconds.
+2025-03-09 21:20:00 - INFO - Git push: Pushed visualization assets. Push operation took 1 minute 15 seconds.
+2025-03-10 09:30:00 - INFO - Started creating PowerPoint presentation manually.
+2025-03-10 10:15:00 - INFO - Created title slide with project information and team members.
+2025-03-10 11:45:00 - INFO - Completed first 5 slides covering problem statement, data sources, and temporal patterns.
+2025-03-10 14:20:00 - INFO - Added slides for weather impact analysis with visualizations.
+2025-03-10 15:45:00 - INFO - Included model training timeline visualization showing 733-minute duration.
+2025-03-10 16:30:00 - INFO - Added modeling results slides with performance metrics and visualizations.
+2025-03-10 17:00:00 - INFO - Reviewed presentation for content and flow.
+2025-03-10 17:45:00 - INFO - Made final adjustments to slide content and visualization captions.
+2025-03-10 18:30:00 - INFO - Completed final presentation with 11 slides.
+2025-03-10 18:45:00 - INFO - Conducted timing test - presentation fits within 10 minutes. Speed-talking is my superpower.
+2025-03-10 19:00:00 - INFO - Git commit: Added final presentation. Commit operation took 37 seconds.
+2025-03-10 19:05:00 - INFO - Git push: Pushed presentation to remote repository. Push operation took 1 minute 42 seconds.
+2025-03-10 19:15:00 - INFO - Updated project logs with presentation development activities.
+2025-03-10 19:30:00 - INFO - Git commit and push: Updated project logs. Operations took 28 seconds combined.
+2025-03-10 19:45:00 - INFO - Project documentation and deliverables complete and ready for submission. It's been a journey. 
